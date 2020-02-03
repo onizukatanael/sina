@@ -1,14 +1,13 @@
 
-<h1> Fichier Readme du Projet 15_sinatra </h1>
+<h1> Fichier Readme du Projet sina</h1>
 
   <h2> 1. Installation et execution : </h2>
 
   Pour ce projet un serveur local est nécéssaire : 
 
   >
-  >$ git clone https://github.com/140ch204/15_sinatra.git
-  >
-  >$ cd 15_sinatra
+  >$ git clone git@github.com:onizukatanael/sina.git
+  >$ cd sina
   >
   >$ bundle install
   >
